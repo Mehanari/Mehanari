@@ -4,10 +4,8 @@
 I'm a passionate Unity Developer and C# Programmer, deeply involved in creating immersive and dynamic gaming experiences. With a strong focus on quality and innovation, I am committed to pushing the boundaries of game development.
 
 ## Favourite Technologies
-- **Unity**: Expertise in Unity for creating engaging and interactive gaming environments.
-- **Zenject**: Skilled in using Zenject for dependency injection, ensuring cleaner and more maintainable code.
-- **C#**: Proficient in C# for robust and efficient game scripting.
-- **Riptide**: Experienced in implementing Riptide for networking solutions in game development.
+<p align="left"> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> </p>
+
 
 Feel free to explore my repositories and reach out for collaborations or discussions!
 
