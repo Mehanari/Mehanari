@@ -3,7 +3,7 @@
 ## About Me
 I'm a passionate Unity Developer and C# Programmer, deeply involved in creating immersive and dynamic gaming experiences. With a strong focus on quality and innovation, I am committed to pushing the boundaries of game development.
 
-## Technologies
+## Favourite Technologies
 - **Unity**: Expertise in Unity for creating engaging and interactive gaming environments.
 - **Zenject**: Skilled in using Zenject for dependency injection, ensuring cleaner and more maintainable code.
 - **C#**: Proficient in C# for robust and efficient game scripting.
