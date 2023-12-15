@@ -9,13 +9,8 @@ I'm a passionate Unity Developer and C# Programmer, deeply involved in creating 
 - **C#**: Proficient in C# for robust and efficient game scripting.
 - **Riptide**: Experienced in implementing Riptide for networking solutions in game development.
 
-## Projects
+## Companies
 - [OSTOLEX-Technologies](https://github.com/Mehanari/OSTOLEX-Technologies)
-
-## Achievements
-- Pair Extraordinaire
-- YOLO
-- Quickdraw
 
 Feel free to explore my repositories and reach out for collaborations or discussions!
 
