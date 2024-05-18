@@ -1,8 +1,7 @@
 # Vladyslav Puzanov (Mehanari)
 
 ## About Me
-I'm a passionate Unity Developer and C# Programmer, deeply involved in creating immersive and dynamic gaming experiences. With a strong focus on quality and innovation, I am committed to pushing the boundaries of game development.
-
+A passionate C# Programmer and Unity Developer, deeply involved in creating all kinds of game mechanics and systems, especially game AIs. I`m also interested in machine learning and modelling of different real world situations with the help of Unity. 
 ## Favourite Technologies
 <p align="left"> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> </p>
 
